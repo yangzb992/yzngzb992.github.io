@@ -12,7 +12,7 @@ github_repo: "https://github.com/aa644179704/aa644179704.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "The sweat you pay can determine the height you can reach!"
-sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/java.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
